@@ -1,0 +1,24 @@
+@import "assets/scss/style.scss";
+
+.section_devider {
+    background: #dbe2ed;
+    height: 1px;
+}
+
+.user_form {
+    margin-top: 2rem;
+
+    .submit_btn {
+        width: 100% !important;
+        padding: calc(0.5em - 0.0625rem) 1em !important;
+        background-color: #a368ff;
+        border-color: transparent;
+        box-shadow: none;
+    }
+}
+
+.text_note {
+    padding: 10px 0;
+    text-align: center;
+    font-size: 14px;
+}
